@@ -1,3 +1,6 @@
+// Assignment no9,Q-1;inpt=n,n numbers,output=number of even numbers from these n numbers
+
+
 #include<stdio.h>
 #include<stdlib.h>
 // -----------
