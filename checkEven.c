@@ -32,5 +32,6 @@ int main()
     }
    count= cntEven(p,iSize);
    printf("%d",count);
+    free(p);
     return 0;
 }
